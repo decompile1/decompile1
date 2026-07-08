@@ -5,10 +5,6 @@
 <img align="right" src="images/flakes.gif" width="25%" />
 
 <font size="30"><b>Hello World</b></font>
-<br />
-Hello I am `decompile1` and I like computers
-
-<br />
 
 ### Tech Stack
 
@@ -56,9 +52,9 @@ Hello I am `decompile1` and I like computers
 
 ### Projects I Guess
 
-- [Cram-AI](https://github.com/decompile1/cram-ai) — AI powered flashcards
-- [Synchronize](https://github.com/decompile1/Synchronize) — Chat app written in Go + React  
-- [QuasarOS](https://github.com/decompile1) — x86_64 operating system in C/C++ and some assembly
+- [Cram.Ai](https://github.com/CramDotAI) — Best quizlet alternative
+- [Synchronize](https://github.com/decompile1/Synchronize) — Chat app written in Go and React
+- [QuasarOS](https://github.com/decompile1) — x86_64 operating system with a GUI
 
 ---
 
