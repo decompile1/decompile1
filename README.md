@@ -52,7 +52,7 @@
 
 ### Projects I Guess
 
-- [Cram.Ai](https://github.com/CramDotAI) — Best quizlet alternative
+- [learnet.app](https://github.com/learnett) — Best flashcards app
 - [Synchronize](https://github.com/decompile1/Synchronize) — Chat app written in Go and React
 - [QuasarOS](https://github.com/decompile1) — x86_64 operating system with a GUI
 
