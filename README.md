@@ -4,7 +4,7 @@
 
 <img align="right" src="images/flakes.gif" width="25%" />
 
-<font size="30"><b>Hello World</b></font>
+<font size="30"><b>Hi there</b></font>
 
 ### Tech Stack
 
